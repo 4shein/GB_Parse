@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GB_parse.iml" filepath="$PROJECT_DIR$/.idea/GB_parse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Parsing/.idea/Parsing.iml" filepath="$PROJECT_DIR$/../Parsing/.idea/Parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python/.idea/Project.iml" filepath="$PROJECT_DIR$/../Python/.idea/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aiogram-bot-template/.idea/aiogram-bot-template.iml" filepath="$PROJECT_DIR$/../aiogram-bot-template/.idea/aiogram-bot-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../finance_bot/.idea/finance_bot.iml" filepath="$PROJECT_DIR$/../finance_bot/.idea/finance_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../finance_telegram_bot/.idea/finance_telegram_bot.iml" filepath="$PROJECT_DIR$/../finance_telegram_bot/.idea/finance_telegram_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>

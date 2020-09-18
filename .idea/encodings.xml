@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/18116.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Алкоголь.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Бытовая техника.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/В дорогу.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Готовые блюда и кулинария.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Дисконтные карты.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Для дома.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Заморозка.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Канцелярские товары.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Колбаса и сосиски.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Красота и уход.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Масло, соусы, специи.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Молочные продукты и яйца.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Мясо и птица.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Напитки.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Обувь.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Пасха.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Продукты быстрого приготовления.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Свежие овощи и зелень.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Табачные изделия и аксессуары.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Хлеб и выпечка.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lesson_1/data/Чай, кофе и какао.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/../finance_telegram_bot/db/finance.db" charset="UTF-8" />
+  </component>
+</project>
